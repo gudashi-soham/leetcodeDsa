@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -25,4 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2089-find-target-indices-after-sorting-array) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

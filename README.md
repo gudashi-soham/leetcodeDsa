@@ -55,10 +55,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->

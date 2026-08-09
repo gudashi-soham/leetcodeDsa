@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0771-jewels-and-stones) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

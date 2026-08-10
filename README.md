@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |

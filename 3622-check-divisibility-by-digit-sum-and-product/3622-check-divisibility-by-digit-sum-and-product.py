@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: bool
         """
         temp=n
-        rem=0
         product=1
         sum=0
         while (temp>0):
@@ -13,8 +12,6 @@ class Solution(object):
             sum+=rem
             product*=rem
             temp//=10
-        if n%(product+sum)==0:
-            return True 
-        else:
-            return False        
+        return n%(product+sum)==0
+                    
         

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |

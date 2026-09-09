@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2928-distribute-candies-among-children-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2928-distribute-candies-among-children-i) |

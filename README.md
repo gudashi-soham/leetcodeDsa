@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3731-find-missing-elements) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1748-sum-of-unique-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3731-find-missing-elements) |

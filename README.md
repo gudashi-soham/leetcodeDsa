@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2367-number-of-arithmetic-triplets) |
 | [2928-distribute-candies-among-children-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gudashi-soham/leetcodeDsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |

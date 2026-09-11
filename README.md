@@ -1,5 +1,5 @@
 # leetcodeDsa
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my solutions to problems I solve on LeetCode, written mainly in Python.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

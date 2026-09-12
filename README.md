@@ -53,6 +53,7 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0050-powx-n) |
+| [0728-self-dividing-numbers](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1512-number-of-good-pairs) |

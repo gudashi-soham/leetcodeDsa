@@ -144,4 +144,8 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

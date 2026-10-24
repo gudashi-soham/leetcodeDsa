@@ -151,4 +151,5 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 | [0182-duplicate-emails](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0584-find-customer-referee) |
+| [1068-product-sales-analysis-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->

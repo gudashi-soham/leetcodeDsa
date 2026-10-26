@@ -155,4 +155,5 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 | [0584-find-customer-referee](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0584-find-customer-referee) |
 | [0626-exchange-seats](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1068-product-sales-analysis-i) |
+| [1683-invalid-tweets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->

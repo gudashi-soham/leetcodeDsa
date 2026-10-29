@@ -152,6 +152,7 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 | [0183-customers-who-never-order](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/gudashi-soham/leetcodeDsa/tree/master/0626-exchange-seats) |

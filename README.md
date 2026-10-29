@@ -163,4 +163,5 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 | [1683-invalid-tweets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gudashi-soham/leetcodeDsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

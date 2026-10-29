@@ -162,4 +162,5 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 | [1587-bank-account-summary-ii](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

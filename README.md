@@ -164,6 +164,7 @@ This repository contains my solutions to problems I solve on LeetCode, written m
 | [1068-product-sales-analysis-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1158-market-analysis-i) |
+| [1280-students-and-examinations](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1280-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/gudashi-soham/leetcodeDsa/tree/master/1683-invalid-tweets) |
